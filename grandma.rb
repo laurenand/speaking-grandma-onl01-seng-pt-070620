@@ -13,5 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma("phrase")
-  puts "I LOVE YOU GRANDMA!"
+  puts "#{phrase}"
 end
+
+speak_to_grandma("HI GRANDMA!")
