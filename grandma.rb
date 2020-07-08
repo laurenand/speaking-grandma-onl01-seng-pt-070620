@@ -16,4 +16,4 @@ def speak_to_grandma(phrase)
   puts "#{phrase}"
 end
 
-speak_to_grandma("HI GRANDMA!")
+speak_to_grandma("hi grandma!")
